@@ -1,7 +1,7 @@
 .topnav {
     overflow: hidden;
     background-color: #333;
-    text-align: right;
+    
   }
   
   .topnav a {
@@ -56,7 +56,7 @@ h1{
 }
 .link-button{
 text-decoration:none;
-padding: 10px 20px;
+padding: 15px 25px;
 background-image: linear-gradient(#FC8F49, #FE4A2E);
 border-radius: 20px;
 
@@ -75,14 +75,14 @@ height: 100%;
 
 .third-section{
     text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding-left: 60px;
-    padding-right: 60px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 4px 4px 8px 4px rgba(0,0,0,0.2);
     transition: 0.3s;
     width: 30%;
     padding:10px;
@@ -100,7 +100,7 @@ height: 100%;
   
   .fourth-section-div{
     text-align: center;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 8px 4px 8px 4px rgba(0,0,0,0.3);
     transition: 0.3s;
     width: 70%;
     padding:10px;

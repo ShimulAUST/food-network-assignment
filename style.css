@@ -46,3 +46,42 @@ height: 100%;
 .second-first-half{
     padding-left: 10%;
 }
+
+.third-section{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    padding:10px;
+    margin: 50px;
+    border-radius: 20px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  
+  .fourth-section-div{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 70%;
+    padding:10px;
+    margin-left:15%;
+    margin-right:15%;
+    border-radius: 20px;
+  }
+  .container-one{
+    float: left;width: calc(100%/3);
+  }

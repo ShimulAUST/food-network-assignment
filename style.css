@@ -31,7 +31,7 @@ h1{
 .link-button{
 text-decoration:none;
 padding: 10px 20px;
-background-image: linear-gradient(red, yellow);
+background-image: linear-gradient(#FC8F49, #FE4A2E);
 border-radius: 20px;
 
 }
@@ -84,4 +84,10 @@ height: 100%;
   }
   .container-one{
     float: left;width: calc(100%/3);
+  }
+
+  footer{
+      background-color: #FFEDF9;
+      text-align: center;
+      padding: 20px;
   }
